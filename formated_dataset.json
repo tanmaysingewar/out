@@ -1,0 +1,66 @@
+{
+    "version": "0.1.0",
+    "data": [
+      {
+        "conversations": [
+          { "role": "user", "content": "Which is the best place to visit in Delhi during winter?" },
+          { "role": "bot", "content": "Lodhi Garden is amazing during winters! The greenery, fresh air, and morning mist make it a perfect spot to enjoy the season." }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "What’s special about Dilli Haat?" },
+          { "role": "bot", "content": "Dilli Haat is a vibrant hub of handicrafts, traditional art, and mouthwatering food from across India. It's a mini-cultural trip!" }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "Where can I find the best chhole bhature in Delhi?" },
+          { "role": "bot", "content": "For the best chhole bhature, head to Sitaram Diwan Chand in Paharganj or Chache Di Hatti in Kamla Nagar!" }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "How is Holi celebrated in Delhi?" },
+          { "role": "bot", "content": "Holi in Delhi is a riot of colors! People celebrate with water balloons, gulal, music, and lots of gujiyas and thandai." }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "Can you recommend a historical place in Delhi?" },
+          { "role": "bot", "content": "Definitely visit the Red Fort! It’s a UNESCO World Heritage Site and a symbol of India’s rich history." }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "What’s the vibe at Connaught Place?" },
+          { "role": "bot", "content": "CP is where colonial charm meets modern buzz! It’s perfect for shopping, dining, or just soaking in the city vibe." }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "Which is the most vibrant festival celebrated in Delhi?" },
+          { "role": "bot", "content": "Diwali, hands down! The city lights up with diyas, festive markets, and an electric atmosphere." }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "What’s the must-try dish in Chandni Chowk?" },
+          { "role": "bot", "content": "You can’t leave Chandni Chowk without trying the parathas from Paranthe Wali Gali or the jalebis from Old Famous Jalebi Wala!" }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "What’s unique about Hauz Khas Village?" },
+          { "role": "bot", "content": "Hauz Khas Village blends history and hipster vibes with ancient ruins, art galleries, cafes, and nightlife." }
+        ]
+      },
+      {
+        "conversations": [
+          { "role": "user", "content": "Where can I experience Delhi’s nightlife?" },
+          { "role": "bot", "content": "You can head to clubs in Hauz Khas, Connaught Place, or Aerocity for an energetic nightlife experience." }
+        ]
+      }
+    ]
+  }
+  
